@@ -1,0 +1,2 @@
+# csc110Final
+The final project me and my teammates made for our first semester in university. What makes this especially memorable for me is that four days before the deadline (we had three months in all), we changed the entire project and the problem domain due to their not being a large enough dataset for the previous one. With the skin of our teeth, we managed to get the proposal, data-scraping and research done in 2 days and the entire project done in 2(a shining epitome of life at uni).
