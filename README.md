@@ -1,2 +1,3 @@
-# csc110Final
-The final project me and my teammates made for our first semester in university. What makes this especially memorable for me is that four days before the deadline (we had three months in all), we changed the entire project and the problem domain due to there not being a large enough dataset for the previous one. With the skin of our teeth, we managed to get the proposal, data-scraping and research done in 2 days and the entire project done in 2(a shining epitome of life at uni).
+# Fractional Regression Analysis - Spotify Revenue
+Analyzed fractional contributions of Ad-supported and Premium subscribers to Spotify's revenue statistics over a period of 5 years. Regressed on data (linear for revenue margins, logistic for category), created a 3-dimensional visualization of the KPIs from scratch.
+Also established a correlation between changes in streaming patterns and the psychological effects of the pandemic, taking work-from-home schedules and elevated stress levels into consideration.
